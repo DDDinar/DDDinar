@@ -1,1 +1,1 @@
-![](https://leetcard.jacoblin.cool/DDDinar??border=0&radius=20)
+![](https://leetcard.jacoblin.cool/DDDinar?ext=activity,heatmap)
