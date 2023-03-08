@@ -1,1 +1,1 @@
-![](https://leetcard.jacoblin.cool/DDDinar?ext=activity,heatmap)
+![](https://leetcard.jacoblin.cool/DDDinar?ext=heatmap)
